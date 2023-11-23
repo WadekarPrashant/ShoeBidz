@@ -35,6 +35,7 @@ function Header() {
     </div>
     {/* After Search Bar */}
     <div className='header_nav'>
+      <Link to = '/login'>
       <div className='header_option'>
         {/* First icon */}
         <span className='header_optionLineOne'>
@@ -44,7 +45,7 @@ function Header() {
           Sign In
         </span>
       </div>
-
+      </Link >
       <div className='header_option'>
           {/* Second icon */}
         <span className='header_optionLineOne'>
