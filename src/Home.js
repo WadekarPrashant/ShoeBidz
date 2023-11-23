@@ -18,7 +18,7 @@ function Home() {
           {/* Product 3 */}
           <Product title='North Face X2' price={49.99} image="https://images.unsplash.com/photo-1603808033192-082d6919d3e1?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTd8fHNob2VzfGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60" rating={3} />
 
-          {/* Product 3 */}
+          {/* Product 4 */}
           <Product title='Jordan 2X' price={49.99} image="https://images.unsplash.com/photo-1560769629-975ec94e6a86?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8c2hvZXN8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=500&q=60" rating={4} />
         </div>
 
