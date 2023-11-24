@@ -17,7 +17,6 @@ function Checkout() {
       <div>
         <h2 className='checkout__title'>
         Your Shopping Basket</h2>
-
         {basket.map(item => (
             <CheckoutProduct
               id={item.id}
