@@ -10,6 +10,9 @@
     min-width: 100px;
     background-color: white;
     z-index: 1;
+    border: 2px solid;
+    border-color: red;
+    border-radius: 5px;
   }
   
   .product_rating {
@@ -24,8 +27,10 @@
   }
   
   .product > button {
-    background: #f0c14b;
+    /* background: #f0c14b; */
+    background: #ef5c3e;
     border: 1px solid;
+    border-radius: 5px;
     margin-top: 10px;
     border-color: #a88734 #9c7e31 #846a29;
     color: #111;
